@@ -1,4 +1,4 @@
-# Wrapper for getsockopt with SO_ORIGNAL_DST
+# Wrapper for getsockopt with SO\_ORIGINAL\_DST
 Use this pkg to retrieve the original destination address after the packets
 are REDIERCTed by an iptables rule.
 
